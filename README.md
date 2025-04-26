@@ -8,7 +8,7 @@ INTERN ID : CT04WS27
 
 DOMAIN : DATA SCIENCE
 
-MANTOR : NEELA SANTHOSH KUMAR
+MENTOR : NEELA SANTHOSH KUMAR
 
 Step 1: Data Preparation and Model Building
 Import Libraries
@@ -103,4 +103,6 @@ Training and saving a machine learning model
 Developing a web service to handle real-time predictions
 
 It connects Data Science with Web Development, showing a practical way to deploy ML models in production.
+
+![Image](https://github.com/user-attachments/assets/04f81519-d3c6-4f21-b602-6ebd2b855ddb)
 
